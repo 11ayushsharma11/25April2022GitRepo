@@ -1,1 +1,2 @@
 This is text document here.
+Master adding the line one time.
